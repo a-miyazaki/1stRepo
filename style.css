@@ -1,8 +1,7 @@
 @charset "UTF-8";
 
 #contener{
-	width:920px;
-	margin-left:50px;
+	width:1024px;
 	margin:auto;
 	
 }
@@ -14,10 +13,13 @@
 	}
 	
 #header{
-	width:820px;
-	height:200px;
+	width:1000px;
+	height:666px;
 	background-color:pink;
-	background-image: url(./images/pattern.png);
+	background-image: url(./images/bg1.jpg);
+	background-repeat:no-repeat;
+	
+
 }
 
 #footer{
@@ -28,4 +30,19 @@
 
 h1{
 	text-align:center;
+	color:white;
+}
+
+.btn a{
+	display:block;
+	float:left;
+	width:191px;
+	height:40px;
+	text-align:center;
+	line-height:40px;
+	text-decoration:none;
+	font-weight:bold;
+	background-color:#300DA3;
+	color:#fff;
+	border-right:1px solid #fff;
 }
