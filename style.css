@@ -7,8 +7,8 @@
 }
 
 #main_1{
-	width:820px;
-	height:200px;
+	width:1000px;
+	height:666px;
 /*	background-image: url(./images/); */
 	}
 	
@@ -23,9 +23,12 @@
 }
 
 #footer{
-	width:820px;
-	height:200px;
+	width:1000px;
+	height:666px;
 	background-color:skyblue;
+		background-image: url(./images/bg2.jpg);
+	background-repeat:no-repeat;
+	
 }
 
 h1{
@@ -36,12 +39,11 @@ h1{
 .btn a{
 	display:block;
 	float:left;
-	width:191px;
+	width:100px;
 	height:40px;
 	text-align:center;
 	line-height:40px;
 	text-decoration:none;
 	font-weight:bold;
 	color:#fff;
-	border-right:1px solid #fff;
 }
