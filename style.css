@@ -10,8 +10,6 @@
 #main_1{
 	width:820px;
 	height:200px;
-	background-color:red;
-	
 	}
 	
 #header{
@@ -25,4 +23,8 @@
 	width:820px;
 	height:200px;
 	background-color:skyblue;
+}
+
+h1{
+	text-align:center;
 }
