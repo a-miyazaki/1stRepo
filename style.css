@@ -10,13 +10,14 @@
 #main_1{
 	width:820px;
 	height:200px;
+/*	background-image: url(./images/); */
 	}
 	
 #header{
 	width:820px;
 	height:200px;
 	background-color:pink;
-	background-image: url(./art.png/);
+	background-image: url(./images/pattern.png);
 }
 
 #footer{
