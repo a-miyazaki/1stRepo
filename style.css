@@ -1,15 +1,24 @@
 @charset "UTF-8";
 
+#contener{
+	width:920px;
+	margin-left:50px;
+	margin:auto;
+	
+}
+
 #main_1{
 	width:820px;
 	height:200px;
 	background-color:red;
+	
 	}
 	
 #header{
 	width:820px;
 	height:200px;
 	background-color:pink;
+	background-image: url(./art.png/);
 }
 
 #footer{
